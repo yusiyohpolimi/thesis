@@ -1,0 +1,13 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /multiverse/datasets/shared/DTLD/trainset.txt 
+val: /multiverse/datasets/shared/DTLD/valset.txt
+#test: /multiverse/datasets/shared/DTLD/scripts/test_mini.txt  
+test: /multiverse/datasets/shared/DTLD/testing/bulb_100
+# train: ~/datasets/shared/DTLD/trainset.txt  
+# val: ~/datasets/shared/DTLD/valset.txt
+# test: ~/datasets/shared/DTLD/test.txt  
+
+nc: 7
+
+# class names
+names: ['1bulb', '2bulb', '3bulb', 'front', 'back', 'right', 'left']

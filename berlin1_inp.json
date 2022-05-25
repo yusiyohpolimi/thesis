@@ -1,0 +1,2389 @@
+{
+    "images": [
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-13-633939_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-13-633939_k0.tiff",
+            "latitude": 52.5116,
+            "longitude": 13.3077,
+            "time_stamp": 1429260613.633939,
+            "velocity": 11.0,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-14-299876_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-14-299876_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3079,
+            "time_stamp": 1429260614.299876,
+            "velocity": 10.7778,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-14-971213_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-14-971213_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3079,
+            "time_stamp": 1429260614.971213,
+            "velocity": 10.5556,
+            "yaw_rate": -0.004886
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-15-634463_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-15-634463_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.308,
+            "time_stamp": 1429260615.634463,
+            "velocity": 10.0833,
+            "yaw_rate": 0.0029665
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-16-301461_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-16-301461_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3082,
+            "time_stamp": 1429260616.301461,
+            "velocity": 9.33333,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-16-970579_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-16-970579_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3082,
+            "time_stamp": 1429260616.970579,
+            "velocity": 8.55556,
+            "yaw_rate": -0.0057585
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-17-633923_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-17-633923_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3084,
+            "time_stamp": 1429260617.633923,
+            "velocity": 7.77778,
+            "yaw_rate": -0.0047115
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-18-299982_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-18-299982_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3085,
+            "time_stamp": 1429260618.299982,
+            "velocity": 7.0,
+            "yaw_rate": 0.015007
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-18-968676_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-18-968676_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3085,
+            "time_stamp": 1429260618.968676,
+            "velocity": 6.19444,
+            "yaw_rate": 0.0127385
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-19-634372_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-19-634372_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3086,
+            "time_stamp": 1429260619.634372,
+            "velocity": 5.27778,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-20-302248_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-20-302248_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3087,
+            "time_stamp": 1429260620.302248,
+            "velocity": 4.36111,
+            "yaw_rate": -0.0619475
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-20-969212_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-20-969212_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3087,
+            "time_stamp": 1429260620.969212,
+            "velocity": 3.86111,
+            "yaw_rate": -0.238018
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-21-635536_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-21-635536_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3088,
+            "time_stamp": 1429260621.635536,
+            "velocity": 3.66667,
+            "yaw_rate": -0.183574
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-22-302082_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-22-302082_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3088,
+            "time_stamp": 1429260622.302082,
+            "velocity": 3.41667,
+            "yaw_rate": 0.01396
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-22-967679_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-22-967679_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3088,
+            "time_stamp": 1429260622.967679,
+            "velocity": 3.19444,
+            "yaw_rate": 0.21481
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-23-635072_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-23-635072_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.3089,
+            "time_stamp": 1429260623.635072,
+            "velocity": 3.0,
+            "yaw_rate": 0.0964985
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-24-302355_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-24-302355_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.309,
+            "time_stamp": 1429260624.302355,
+            "velocity": 2.47222,
+            "yaw_rate": 0.080968
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-24-969343_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-24-969343_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.309,
+            "time_stamp": 1429260624.969343,
+            "velocity": 1.77778,
+            "yaw_rate": 0.0755585
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-25-635464_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-25-635464_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.309,
+            "time_stamp": 1429260625.635464,
+            "velocity": 1.0,
+            "yaw_rate": 0.00349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-26-300601_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-05/DE_BBBR667_2015-04-17_10-50-26-300601_k0.tiff",
+            "latitude": 52.5117,
+            "longitude": 13.309,
+            "time_stamp": 1429260626.300601,
+            "velocity": 0.305556,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-01-969851_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-01-969851_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.313,
+            "time_stamp": 1429260661.969851,
+            "velocity": 11.4167,
+            "yaw_rate": -0.0109935
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-02-637237_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-02-637237_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.3132,
+            "time_stamp": 1429260662.637237,
+            "velocity": 11.25,
+            "yaw_rate": -0.002792
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-03-300202_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-03-300202_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.3134,
+            "time_stamp": 1429260663.300202,
+            "velocity": 11.0833,
+            "yaw_rate": 0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-03-969723_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-03-969723_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.3134,
+            "time_stamp": 1429260663.969723,
+            "velocity": 10.9444,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-04-634291_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-04-634291_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.3135,
+            "time_stamp": 1429260664.634291,
+            "velocity": 10.8056,
+            "yaw_rate": -0.003839
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-05-301214_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-05-301214_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.3137,
+            "time_stamp": 1429260665.301214,
+            "velocity": 10.6944,
+            "yaw_rate": 0.001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-05-966970_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-05-966970_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.3137,
+            "time_stamp": 1429260665.96697,
+            "velocity": 10.5,
+            "yaw_rate": 0.0008725
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-06-634545_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-06-634545_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.3138,
+            "time_stamp": 1429260666.634545,
+            "velocity": 10.3611,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-07-301872_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-07-301872_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.314,
+            "time_stamp": 1429260667.301872,
+            "velocity": 10.3056,
+            "yaw_rate": 0.009423
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-07-971040_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-07-971040_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.314,
+            "time_stamp": 1429260667.97104,
+            "velocity": 10.1944,
+            "yaw_rate": 0.007678
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-08-632888_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-50-56/DE_BBBR667_2015-04-17_10-51-08-632888_k0.tiff",
+            "latitude": 52.512,
+            "longitude": 13.3142,
+            "time_stamp": 1429260668.632888,
+            "velocity": 9.97222,
+            "yaw_rate": 0.0040135
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-37-301684_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-37-301684_k0.tiff",
+            "latitude": 52.5123,
+            "longitude": 13.3187,
+            "time_stamp": 1429260697.301684,
+            "velocity": 10.9722,
+            "yaw_rate": -0.0075035
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-37-969187_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-37-969187_k0.tiff",
+            "latitude": 52.5123,
+            "longitude": 13.3187,
+            "time_stamp": 1429260697.969187,
+            "velocity": 10.9444,
+            "yaw_rate": -0.0015705
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-38-635399_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-38-635399_k0.tiff",
+            "latitude": 52.5123,
+            "longitude": 13.3189,
+            "time_stamp": 1429260698.635399,
+            "velocity": 10.9167,
+            "yaw_rate": 0.0123895
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-39-300035_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-39-300035_k0.tiff",
+            "latitude": 52.5123,
+            "longitude": 13.3191,
+            "time_stamp": 1429260699.300035,
+            "velocity": 10.8889,
+            "yaw_rate": 0.009772
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-39-969005_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-39-969005_k0.tiff",
+            "latitude": 52.5123,
+            "longitude": 13.3191,
+            "time_stamp": 1429260699.969005,
+            "velocity": 11.1111,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-40-633710_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-40-633710_k0.tiff",
+            "latitude": 52.5124,
+            "longitude": 13.3192,
+            "time_stamp": 1429260700.63371,
+            "velocity": 11.8056,
+            "yaw_rate": -0.01745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-41-304372_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-41-304372_k0.tiff",
+            "latitude": 52.5124,
+            "longitude": 13.3194,
+            "time_stamp": 1429260701.304372,
+            "velocity": 12.7778,
+            "yaw_rate": 0.0012215
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-41-971735_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-41-971735_k0.tiff",
+            "latitude": 52.5124,
+            "longitude": 13.3194,
+            "time_stamp": 1429260701.971735,
+            "velocity": 13.6667,
+            "yaw_rate": 0.0015705
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-42-634315_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-42-634315_k0.tiff",
+            "latitude": 52.5124,
+            "longitude": 13.3196,
+            "time_stamp": 1429260702.634315,
+            "velocity": 13.7778,
+            "yaw_rate": 0.0064565
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-43-303665_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-43-303665_k0.tiff",
+            "latitude": 52.5124,
+            "longitude": 13.3198,
+            "time_stamp": 1429260703.303665,
+            "velocity": 13.6389,
+            "yaw_rate": 0.0005235
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-43-967343_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-43-967343_k0.tiff",
+            "latitude": 52.5124,
+            "longitude": 13.3198,
+            "time_stamp": 1429260703.967343,
+            "velocity": 13.4444,
+            "yaw_rate": -0.0088995
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-44-633847_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-51-34/DE_BBBR667_2015-04-17_10-51-44-633847_k0.tiff",
+            "latitude": 52.5124,
+            "longitude": 13.32,
+            "time_stamp": 1429260704.633847,
+            "velocity": 12.9444,
+            "yaw_rate": -0.100512
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-31-301666_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-31-301666_k0.tiff",
+            "latitude": 52.5133,
+            "longitude": 13.3341,
+            "time_stamp": 1429260811.301666,
+            "velocity": 13.5,
+            "yaw_rate": -0.0040135
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-31-968916_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-31-968916_k0.tiff",
+            "latitude": 52.5133,
+            "longitude": 13.3341,
+            "time_stamp": 1429260811.968916,
+            "velocity": 13.4722,
+            "yaw_rate": -0.004886
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-32-634517_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-32-634517_k0.tiff",
+            "latitude": 52.5134,
+            "longitude": 13.3343,
+            "time_stamp": 1429260812.634517,
+            "velocity": 13.4722,
+            "yaw_rate": 0.0033155
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-33-300233_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-33-300233_k0.tiff",
+            "latitude": 52.5134,
+            "longitude": 13.3345,
+            "time_stamp": 1429260813.300233,
+            "velocity": 13.5556,
+            "yaw_rate": 0.0158795
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-33-970669_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-33-970669_k0.tiff",
+            "latitude": 52.5134,
+            "longitude": 13.3345,
+            "time_stamp": 1429260813.970669,
+            "velocity": 13.5,
+            "yaw_rate": 0.026524
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-34-633564_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-34-633564_k0.tiff",
+            "latitude": 52.5134,
+            "longitude": 13.3347,
+            "time_stamp": 1429260814.633564,
+            "velocity": 13.4722,
+            "yaw_rate": 0.025826
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-35-300543_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-35-300543_k0.tiff",
+            "latitude": 52.5134,
+            "longitude": 13.3349,
+            "time_stamp": 1429260815.300543,
+            "velocity": 13.3333,
+            "yaw_rate": 0.0085505
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-35-970222_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-35-970222_k0.tiff",
+            "latitude": 52.5134,
+            "longitude": 13.3349,
+            "time_stamp": 1429260815.970222,
+            "velocity": 13.2222,
+            "yaw_rate": 0.0040135
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-36-635396_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-24/DE_BBBR667_2015-04-17_10-53-36-635396_k0.tiff",
+            "latitude": 52.5134,
+            "longitude": 13.3351,
+            "time_stamp": 1429260816.635396,
+            "velocity": 13.1944,
+            "yaw_rate": 0.017101
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-42-970034_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-42-970034_k0.tiff",
+            "latitude": 52.5135,
+            "longitude": 13.3361,
+            "time_stamp": 1429260822.970034,
+            "velocity": 12.3056,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-43-634526_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-43-634526_k0.tiff",
+            "latitude": 52.5135,
+            "longitude": 13.3363,
+            "time_stamp": 1429260823.634526,
+            "velocity": 12.2222,
+            "yaw_rate": -0.01047
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-44-299434_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-44-299434_k0.tiff",
+            "latitude": 52.5135,
+            "longitude": 13.3365,
+            "time_stamp": 1429260824.299434,
+            "velocity": 12.25,
+            "yaw_rate": -0.0088995
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-44-967627_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-44-967627_k0.tiff",
+            "latitude": 52.5135,
+            "longitude": 13.3365,
+            "time_stamp": 1429260824.967627,
+            "velocity": 12.3056,
+            "yaw_rate": -0.0019195
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-45-633065_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-45-633065_k0.tiff",
+            "latitude": 52.5136,
+            "longitude": 13.3367,
+            "time_stamp": 1429260825.633065,
+            "velocity": 12.3611,
+            "yaw_rate": 0.002792
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-46-300694_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-46-300694_k0.tiff",
+            "latitude": 52.5136,
+            "longitude": 13.3369,
+            "time_stamp": 1429260826.300694,
+            "velocity": 12.3889,
+            "yaw_rate": 0.0008725
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-46-969611_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-46-969611_k0.tiff",
+            "latitude": 52.5136,
+            "longitude": 13.3369,
+            "time_stamp": 1429260826.969611,
+            "velocity": 12.5,
+            "yaw_rate": 0.0075035
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-47-635076_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-47-635076_k0.tiff",
+            "latitude": 52.5136,
+            "longitude": 13.3371,
+            "time_stamp": 1429260827.635076,
+            "velocity": 12.5833,
+            "yaw_rate": 0.0050605
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-48-302437_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-48-302437_k0.tiff",
+            "latitude": 52.5136,
+            "longitude": 13.3372,
+            "time_stamp": 1429260828.302437,
+            "velocity": 12.6944,
+            "yaw_rate": 0.0040135
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-48-969422_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-53-40/DE_BBBR667_2015-04-17_10-53-48-969422_k0.tiff",
+            "latitude": 52.5136,
+            "longitude": 13.3372,
+            "time_stamp": 1429260828.969422,
+            "velocity": 12.8333,
+            "yaw_rate": 0.0012215
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-37-701522_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-37-701522_k0.tiff",
+            "latitude": 52.5143,
+            "longitude": 13.3465,
+            "time_stamp": 1429260877.701522,
+            "velocity": 11.3333,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-38-369131_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-38-369131_k0.tiff",
+            "latitude": 52.5143,
+            "longitude": 13.3469,
+            "time_stamp": 1429260878.369131,
+            "velocity": 11.1389,
+            "yaw_rate": -0.0535715
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-39-034206_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-39-034206_k0.tiff",
+            "latitude": 52.5143,
+            "longitude": 13.3469,
+            "time_stamp": 1429260879.034206,
+            "velocity": 10.9444,
+            "yaw_rate": -0.046068
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-39-700742_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-39-700742_k0.tiff",
+            "latitude": 52.5143,
+            "longitude": 13.347,
+            "time_stamp": 1429260879.700742,
+            "velocity": 10.75,
+            "yaw_rate": -0.022685
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-40-371768_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-40-371768_k0.tiff",
+            "latitude": 52.5143,
+            "longitude": 13.347,
+            "time_stamp": 1429260880.371768,
+            "velocity": 10.5,
+            "yaw_rate": 0.010121
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-41-037423_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-41-037423_k0.tiff",
+            "latitude": 52.5143,
+            "longitude": 13.347,
+            "time_stamp": 1429260881.037423,
+            "velocity": 10.1389,
+            "yaw_rate": 0.010819
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-41-701551_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-41-701551_k0.tiff",
+            "latitude": 52.5143,
+            "longitude": 13.3472,
+            "time_stamp": 1429260881.701551,
+            "velocity": 9.75,
+            "yaw_rate": 0.004188
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-42-369243_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-42-369243_k0.tiff",
+            "latitude": 52.5143,
+            "longitude": 13.3474,
+            "time_stamp": 1429260882.369243,
+            "velocity": 9.22222,
+            "yaw_rate": 0.0019195
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-43-036115_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-43-036115_k0.tiff",
+            "latitude": 52.5143,
+            "longitude": 13.3474,
+            "time_stamp": 1429260883.036115,
+            "velocity": 8.63889,
+            "yaw_rate": -0.0137855
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-43-703814_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-43-703814_k0.tiff",
+            "latitude": 52.5143,
+            "longitude": 13.3477,
+            "time_stamp": 1429260883.703814,
+            "velocity": 8.0,
+            "yaw_rate": -0.0130875
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-44-371469_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-44-371469_k0.tiff",
+            "latitude": 52.5144,
+            "longitude": 13.3478,
+            "time_stamp": 1429260884.371469,
+            "velocity": 7.44444,
+            "yaw_rate": -0.004886
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-45-035881_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-45-035881_k0.tiff",
+            "latitude": 52.5144,
+            "longitude": 13.3478,
+            "time_stamp": 1429260885.035881,
+            "velocity": 6.69444,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-45-703793_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-45-703793_k0.tiff",
+            "latitude": 52.5144,
+            "longitude": 13.3479,
+            "time_stamp": 1429260885.703793,
+            "velocity": 5.80556,
+            "yaw_rate": 0.0095975
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-46-371783_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-46-371783_k0.tiff",
+            "latitude": 52.5144,
+            "longitude": 13.3479,
+            "time_stamp": 1429260886.371783,
+            "velocity": 4.80556,
+            "yaw_rate": 0.009772
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-47-040220_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-47-040220_k0.tiff",
+            "latitude": 52.5144,
+            "longitude": 13.3479,
+            "time_stamp": 1429260887.04022,
+            "velocity": 3.77778,
+            "yaw_rate": 0.0019195
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-47-702499_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-47-702499_k0.tiff",
+            "latitude": 52.5144,
+            "longitude": 13.3481,
+            "time_stamp": 1429260887.702499,
+            "velocity": 2.86111,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-48-369339_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-54-32/DE_BBBR667_2015-04-17_10-54-48-369339_k0.tiff",
+            "latitude": 52.5144,
+            "longitude": 13.3482,
+            "time_stamp": 1429260888.369339,
+            "velocity": 2.13889,
+            "yaw_rate": -0.003839
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-55-49/DE_BBBR667_2015-04-17_10-55-49-371462_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-55-49/DE_BBBR667_2015-04-17_10-55-49-371462_k0.tiff",
+            "latitude": 52.5141,
+            "longitude": 13.3495,
+            "time_stamp": 1429260949.371462,
+            "velocity": 9.88889,
+            "yaw_rate": 0.208004
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-55-49/DE_BBBR667_2015-04-17_10-55-50-035970_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-55-49/DE_BBBR667_2015-04-17_10-55-50-035970_k0.tiff",
+            "latitude": 52.5141,
+            "longitude": 13.3495,
+            "time_stamp": 1429260950.03597,
+            "velocity": 9.88889,
+            "yaw_rate": 0.209575
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-55-49/DE_BBBR667_2015-04-17_10-55-50-702075_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-55-49/DE_BBBR667_2015-04-17_10-55-50-702075_k0.tiff",
+            "latitude": 52.514,
+            "longitude": 13.3496,
+            "time_stamp": 1429260950.702075,
+            "velocity": 9.83333,
+            "yaw_rate": 0.203467
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-55-49/DE_BBBR667_2015-04-17_10-55-51-372085_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-55-49/DE_BBBR667_2015-04-17_10-55-51-372085_k0.tiff",
+            "latitude": 52.514,
+            "longitude": 13.3497,
+            "time_stamp": 1429260951.372085,
+            "velocity": 9.75,
+            "yaw_rate": 0.161936
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-55-49/DE_BBBR667_2015-04-17_10-55-52-033393_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-55-49/DE_BBBR667_2015-04-17_10-55-52-033393_k0.tiff",
+            "latitude": 52.514,
+            "longitude": 13.3497,
+            "time_stamp": 1429260952.033393,
+            "velocity": 9.86111,
+            "yaw_rate": 0.156003
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-18-703233_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-18-703233_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.3746,
+            "time_stamp": 1429261098.703233,
+            "velocity": 11.0556,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-19-370773_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-19-370773_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.375,
+            "time_stamp": 1429261099.370773,
+            "velocity": 10.9722,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-20-034571_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-20-034571_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.375,
+            "time_stamp": 1429261100.034571,
+            "velocity": 10.8889,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-20-699678_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-20-699678_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.3751,
+            "time_stamp": 1429261100.699678,
+            "velocity": 10.6944,
+            "yaw_rate": 0.0085505
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-21-368462_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-21-368462_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.3753,
+            "time_stamp": 1429261101.368462,
+            "velocity": 10.4444,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-22-035446_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-22-035446_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.3753,
+            "time_stamp": 1429261102.035446,
+            "velocity": 10.0556,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-22-702184_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-22-702184_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.3754,
+            "time_stamp": 1429261102.702184,
+            "velocity": 9.47222,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-23-369480_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-23-369480_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.3756,
+            "time_stamp": 1429261103.36948,
+            "velocity": 8.77778,
+            "yaw_rate": -0.0088995
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-24-034908_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-24-034908_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.3756,
+            "time_stamp": 1429261104.034908,
+            "velocity": 8.0,
+            "yaw_rate": -0.0029665
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-24-700414_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-24-700414_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.3757,
+            "time_stamp": 1429261104.700414,
+            "velocity": 7.22222,
+            "yaw_rate": -0.001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-25-370740_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-25-370740_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.3759,
+            "time_stamp": 1429261105.37074,
+            "velocity": 6.38889,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-26-034134_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-26-034134_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.3759,
+            "time_stamp": 1429261106.034134,
+            "velocity": 5.27778,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-26-703311_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-26-703311_k0.tiff",
+            "latitude": 52.5161,
+            "longitude": 13.376,
+            "time_stamp": 1429261106.703311,
+            "velocity": 4.22222,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-27-369840_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-27-369840_k0.tiff",
+            "latitude": 52.5162,
+            "longitude": 13.3761,
+            "time_stamp": 1429261107.36984,
+            "velocity": 2.94444,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-28-034401_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-28-034401_k0.tiff",
+            "latitude": 52.5162,
+            "longitude": 13.3761,
+            "time_stamp": 1429261108.034401,
+            "velocity": 1.94444,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-28-702199_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-28-702199_k0.tiff",
+            "latitude": 52.5162,
+            "longitude": 13.3761,
+            "time_stamp": 1429261108.702199,
+            "velocity": 1.36111,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-29-368816_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-29-368816_k0.tiff",
+            "latitude": 52.5162,
+            "longitude": 13.3761,
+            "time_stamp": 1429261109.368816,
+            "velocity": 0.833333,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-30-035494_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-30-035494_k0.tiff",
+            "latitude": 52.5162,
+            "longitude": 13.3762,
+            "time_stamp": 1429261110.035494,
+            "velocity": 0.444444,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-30-704548_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-30-704548_k0.tiff",
+            "latitude": 52.5162,
+            "longitude": 13.3762,
+            "time_stamp": 1429261110.704548,
+            "velocity": 0.111111,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-31-371386_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-31-371386_k0.tiff",
+            "latitude": 52.5162,
+            "longitude": 13.3762,
+            "time_stamp": 1429261111.371386,
+            "velocity": 0.0,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-32-036857_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-58-12/DE_BBBR667_2015-04-17_10-58-32-036857_k0.tiff",
+            "latitude": 52.5162,
+            "longitude": 13.3762,
+            "time_stamp": 1429261112.036857,
+            "velocity": 0.0,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-55-435554_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-55-435554_k0.tiff",
+            "latitude": 52.5146,
+            "longitude": 13.3786,
+            "time_stamp": 1429261195.435554,
+            "velocity": 9.77778,
+            "yaw_rate": 0.025477
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-56-101517_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-56-101517_k0.tiff",
+            "latitude": 52.5146,
+            "longitude": 13.3786,
+            "time_stamp": 1429261196.101517,
+            "velocity": 9.75,
+            "yaw_rate": 0.0528735
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-56-769385_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-56-769385_k0.tiff",
+            "latitude": 52.5146,
+            "longitude": 13.3787,
+            "time_stamp": 1429261196.769385,
+            "velocity": 9.72222,
+            "yaw_rate": 0.066659
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-57-438040_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-57-438040_k0.tiff",
+            "latitude": 52.5146,
+            "longitude": 13.3789,
+            "time_stamp": 1429261197.43804,
+            "velocity": 9.69444,
+            "yaw_rate": 0.0692765
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-58-102683_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-58-102683_k0.tiff",
+            "latitude": 52.5146,
+            "longitude": 13.3789,
+            "time_stamp": 1429261198.102683,
+            "velocity": 9.75,
+            "yaw_rate": 0.0532225
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-58-772124_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-58-772124_k0.tiff",
+            "latitude": 52.5147,
+            "longitude": 13.379,
+            "time_stamp": 1429261198.772124,
+            "velocity": 9.80556,
+            "yaw_rate": 0.026524
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-59-435461_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_10-59-59-435461_k0.tiff",
+            "latitude": 52.5147,
+            "longitude": 13.3792,
+            "time_stamp": 1429261199.435461,
+            "velocity": 9.83333,
+            "yaw_rate": 0.017101
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_11-00-00-099771_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_11-00-00-099771_k0.tiff",
+            "latitude": 52.5147,
+            "longitude": 13.3792,
+            "time_stamp": 1429261200.099771,
+            "velocity": 9.86111,
+            "yaw_rate": 0.0109935
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_11-00-00-768463_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_11-00-00-768463_k0.tiff",
+            "latitude": 52.5147,
+            "longitude": 13.3793,
+            "time_stamp": 1429261200.768463,
+            "velocity": 9.83333,
+            "yaw_rate": 0.004537
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_11-00-01-435663_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_11-00-01-435663_k0.tiff",
+            "latitude": 52.5147,
+            "longitude": 13.3795,
+            "time_stamp": 1429261201.435663,
+            "velocity": 9.80556,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_11-00-02-100906_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_10-59-54/DE_BBBR667_2015-04-17_11-00-02-100906_k0.tiff",
+            "latitude": 52.5147,
+            "longitude": 13.3795,
+            "time_stamp": 1429261202.100906,
+            "velocity": 9.77778,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-17-102276_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-17-102276_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3826,
+            "time_stamp": 1429261277.102276,
+            "velocity": 9.30556,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-17-774871_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-17-774871_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3828,
+            "time_stamp": 1429261277.774871,
+            "velocity": 9.08333,
+            "yaw_rate": -0.004886
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-18-435414_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-18-435414_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3829,
+            "time_stamp": 1429261278.435414,
+            "velocity": 8.83333,
+            "yaw_rate": -0.0061075
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-19-101821_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-19-101821_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3829,
+            "time_stamp": 1429261279.101821,
+            "velocity": 8.63889,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-19-770695_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-19-770695_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3831,
+            "time_stamp": 1429261279.770695,
+            "velocity": 8.61111,
+            "yaw_rate": -0.001396
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-20-436454_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-20-436454_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3832,
+            "time_stamp": 1429261280.436454,
+            "velocity": 8.61111,
+            "yaw_rate": -0.0005235
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-21-102633_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-21-102633_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3832,
+            "time_stamp": 1429261281.102633,
+            "velocity": 8.72222,
+            "yaw_rate": -0.001396
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-21-770489_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-21-770489_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3833,
+            "time_stamp": 1429261281.770489,
+            "velocity": 8.86111,
+            "yaw_rate": 0.0109935
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-22-436768_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-22-436768_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3835,
+            "time_stamp": 1429261282.436768,
+            "velocity": 9.0,
+            "yaw_rate": 0.0130875
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-23-101185_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-23-101185_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3835,
+            "time_stamp": 1429261283.101185,
+            "velocity": 9.0,
+            "yaw_rate": 0.0040135
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-23-770743_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-23-770743_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3836,
+            "time_stamp": 1429261283.770743,
+            "velocity": 8.94444,
+            "yaw_rate": -0.000698
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-24-435041_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-24-435041_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3837,
+            "time_stamp": 1429261284.435041,
+            "velocity": 8.88889,
+            "yaw_rate": -0.0026175
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-25-100400_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-25-100400_k0.tiff",
+            "latitude": 52.5153,
+            "longitude": 13.3837,
+            "time_stamp": 1429261285.1004,
+            "velocity": 8.88889,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-25-768720_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-25-768720_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3839,
+            "time_stamp": 1429261285.76872,
+            "velocity": 8.88889,
+            "yaw_rate": -0.002094
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-26-435406_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-26-435406_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.384,
+            "time_stamp": 1429261286.435406,
+            "velocity": 8.83333,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-27-102486_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-27-102486_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.384,
+            "time_stamp": 1429261287.102486,
+            "velocity": 8.77778,
+            "yaw_rate": -0.0008725
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-27-769676_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-27-769676_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3841,
+            "time_stamp": 1429261287.769676,
+            "velocity": 8.72222,
+            "yaw_rate": -0.001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-28-436261_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-28-436261_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3843,
+            "time_stamp": 1429261288.436261,
+            "velocity": 8.61111,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-29-102223_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-29-102223_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3843,
+            "time_stamp": 1429261289.102223,
+            "velocity": 8.63889,
+            "yaw_rate": 0.0019195
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-29-768175_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-29-768175_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3844,
+            "time_stamp": 1429261289.768175,
+            "velocity": 8.66667,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-30-433496_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-30-433496_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3845,
+            "time_stamp": 1429261290.433496,
+            "velocity": 8.55556,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-31-103052_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-31-103052_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3845,
+            "time_stamp": 1429261291.103052,
+            "velocity": 8.36111,
+            "yaw_rate": 0.0022685
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-31-769967_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-31-769967_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3847,
+            "time_stamp": 1429261291.769967,
+            "velocity": 8.16667,
+            "yaw_rate": 0.0012215
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-32-435208_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-32-435208_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3848,
+            "time_stamp": 1429261292.435208,
+            "velocity": 7.94444,
+            "yaw_rate": 0.0071545
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-33-101088_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-33-101088_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3848,
+            "time_stamp": 1429261293.101088,
+            "velocity": 7.80556,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-33-771019_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-33-771019_k0.tiff",
+            "latitude": 52.5154,
+            "longitude": 13.3849,
+            "time_stamp": 1429261293.771019,
+            "velocity": 7.69444,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-34-434567_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-34-434567_k0.tiff",
+            "latitude": 52.5155,
+            "longitude": 13.385,
+            "time_stamp": 1429261294.434567,
+            "velocity": 7.55556,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-35-105100_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-35-105100_k0.tiff",
+            "latitude": 52.5155,
+            "longitude": 13.385,
+            "time_stamp": 1429261295.1051,
+            "velocity": 7.27778,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-35-771371_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-35-771371_k0.tiff",
+            "latitude": 52.5155,
+            "longitude": 13.3852,
+            "time_stamp": 1429261295.771371,
+            "velocity": 6.91667,
+            "yaw_rate": -0.0054095
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-36-437773_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-36-437773_k0.tiff",
+            "latitude": 52.5155,
+            "longitude": 13.3853,
+            "time_stamp": 1429261296.437773,
+            "velocity": 6.36111,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-37-102211_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-37-102211_k0.tiff",
+            "latitude": 52.5155,
+            "longitude": 13.3853,
+            "time_stamp": 1429261297.102211,
+            "velocity": 5.72222,
+            "yaw_rate": 0.0029665
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-37-769822_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-37-769822_k0.tiff",
+            "latitude": 52.5155,
+            "longitude": 13.3854,
+            "time_stamp": 1429261297.769822,
+            "velocity": 5.0,
+            "yaw_rate": -0.004188
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-38-434882_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-38-434882_k0.tiff",
+            "latitude": 52.5155,
+            "longitude": 13.3855,
+            "time_stamp": 1429261298.434882,
+            "velocity": 4.47222,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-39-103017_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-01-16/DE_BBBR667_2015-04-17_11-01-39-103017_k0.tiff",
+            "latitude": 52.5155,
+            "longitude": 13.3855,
+            "time_stamp": 1429261299.103017,
+            "velocity": 3.97222,
+            "yaw_rate": 0.0085505
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-27-501829_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-27-501829_k0.tiff",
+            "latitude": 52.5169,
+            "longitude": 13.3892,
+            "time_stamp": 1429261407.501829,
+            "velocity": 8.75,
+            "yaw_rate": 0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-28-169915_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-28-169915_k0.tiff",
+            "latitude": 52.5169,
+            "longitude": 13.3892,
+            "time_stamp": 1429261408.169915,
+            "velocity": 8.61111,
+            "yaw_rate": 0.0661355
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-28-835766_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-28-835766_k0.tiff",
+            "latitude": 52.5169,
+            "longitude": 13.3893,
+            "time_stamp": 1429261408.835766,
+            "velocity": 8.41667,
+            "yaw_rate": 0.102955
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-29-502281_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-29-502281_k0.tiff",
+            "latitude": 52.5169,
+            "longitude": 13.3894,
+            "time_stamp": 1429261409.502281,
+            "velocity": 8.22222,
+            "yaw_rate": 0.0978945
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-30-170936_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-30-170936_k0.tiff",
+            "latitude": 52.5169,
+            "longitude": 13.3894,
+            "time_stamp": 1429261410.170936,
+            "velocity": 8.0,
+            "yaw_rate": -0.0588065
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-30-835854_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-30-835854_k0.tiff",
+            "latitude": 52.5169,
+            "longitude": 13.3896,
+            "time_stamp": 1429261410.835854,
+            "velocity": 7.77778,
+            "yaw_rate": -0.107666
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-31-502983_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-31-502983_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3897,
+            "time_stamp": 1429261411.502983,
+            "velocity": 7.61111,
+            "yaw_rate": -0.0556655
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-32-171128_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-32-171128_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3897,
+            "time_stamp": 1429261412.171128,
+            "velocity": 7.41667,
+            "yaw_rate": -0.021289
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-32-835269_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-32-835269_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3898,
+            "time_stamp": 1429261412.835269,
+            "velocity": 7.19444,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-33-501793_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-33-501793_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3899,
+            "time_stamp": 1429261413.501793,
+            "velocity": 6.91667,
+            "yaw_rate": 0.0019195
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-34-169656_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-34-169656_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3899,
+            "time_stamp": 1429261414.169656,
+            "velocity": 6.47222,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-34-837734_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-34-837734_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.39,
+            "time_stamp": 1429261414.837734,
+            "velocity": 5.86111,
+            "yaw_rate": -0.0064565
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-35-505710_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-35-505710_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3901,
+            "time_stamp": 1429261415.50571,
+            "velocity": 5.30556,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-36-173876_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-36-173876_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3901,
+            "time_stamp": 1429261416.173876,
+            "velocity": 4.72222,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-36-835179_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-36-835179_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3902,
+            "time_stamp": 1429261416.835179,
+            "velocity": 3.72222,
+            "yaw_rate": 0.001396
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-37-502549_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-03-37-502549_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3903,
+            "time_stamp": 1429261417.502549,
+            "velocity": 2.80556,
+            "yaw_rate": 0.0026175
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-04-01-502369_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-04-01-502369_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3904,
+            "time_stamp": 1429261441.502369,
+            "velocity": 0.0833333,
+            "yaw_rate": 0.002094
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-04-02-169961_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-04-02-169961_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3904,
+            "time_stamp": 1429261442.169961,
+            "velocity": 0.777778,
+            "yaw_rate": 0.0022685
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-04-02-837204_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-04-02-837204_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3904,
+            "time_stamp": 1429261442.837204,
+            "velocity": 2.11111,
+            "yaw_rate": 0.004537
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-04-03-503116_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-04-03-503116_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3904,
+            "time_stamp": 1429261443.503116,
+            "velocity": 3.11111,
+            "yaw_rate": 0.0047115
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-04-04-172244_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-03-25/DE_BBBR667_2015-04-17_11-04-04-172244_k0.tiff",
+            "latitude": 52.517,
+            "longitude": 13.3904,
+            "time_stamp": 1429261444.172244,
+            "velocity": 4.0,
+            "yaw_rate": 0.0130875
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-18-170419_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-18-170419_k0.tiff",
+            "latitude": 52.5177,
+            "longitude": 13.3993,
+            "time_stamp": 1429261518.170419,
+            "velocity": 8.5,
+            "yaw_rate": 0.0661355
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-18-835093_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-18-835093_k0.tiff",
+            "latitude": 52.5177,
+            "longitude": 13.3994,
+            "time_stamp": 1429261518.835093,
+            "velocity": 8.16667,
+            "yaw_rate": 0.088646
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-19-502961_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-19-502961_k0.tiff",
+            "latitude": 52.5178,
+            "longitude": 13.3995,
+            "time_stamp": 1429261519.502961,
+            "velocity": 7.75,
+            "yaw_rate": 0.106968
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-20-170623_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-20-170623_k0.tiff",
+            "latitude": 52.5178,
+            "longitude": 13.3995,
+            "time_stamp": 1429261520.170623,
+            "velocity": 7.05556,
+            "yaw_rate": 0.0354235
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-20-835323_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-20-835323_k0.tiff",
+            "latitude": 52.5178,
+            "longitude": 13.3996,
+            "time_stamp": 1429261520.835323,
+            "velocity": 5.94444,
+            "yaw_rate": 0.0061075
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-21-503062_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-21-503062_k0.tiff",
+            "latitude": 52.5178,
+            "longitude": 13.3997,
+            "time_stamp": 1429261521.503062,
+            "velocity": 5.13889,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-22-171448_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-22-171448_k0.tiff",
+            "latitude": 52.5178,
+            "longitude": 13.3997,
+            "time_stamp": 1429261522.171448,
+            "velocity": 4.52778,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-22-834588_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-22-834588_k0.tiff",
+            "latitude": 52.5178,
+            "longitude": 13.3998,
+            "time_stamp": 1429261522.834588,
+            "velocity": 3.38889,
+            "yaw_rate": -0.0022685
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-23-502242_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-23-502242_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.3999,
+            "time_stamp": 1429261523.502242,
+            "velocity": 2.33333,
+            "yaw_rate": 0.012564
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-24-171499_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-24-171499_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.3999,
+            "time_stamp": 1429261524.171499,
+            "velocity": 1.72222,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-24-839719_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-24-839719_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.3999,
+            "time_stamp": 1429261524.839719,
+            "velocity": 1.02778,
+            "yaw_rate": 0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-25-505389_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-25-505389_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4,
+            "time_stamp": 1429261525.505389,
+            "velocity": 0.583333,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-26-172062_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-26-172062_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4,
+            "time_stamp": 1429261526.172062,
+            "velocity": 0.305556,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-26-835818_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-26-835818_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4,
+            "time_stamp": 1429261526.835818,
+            "velocity": 0.444444,
+            "yaw_rate": 0.0497325
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-27-504838_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-27-504838_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4,
+            "time_stamp": 1429261527.504838,
+            "velocity": 1.36111,
+            "yaw_rate": 0.137855
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-28-170542_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-28-170542_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4,
+            "time_stamp": 1429261528.170542,
+            "velocity": 2.27778,
+            "yaw_rate": 0.125814
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-28-834967_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-28-834967_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4,
+            "time_stamp": 1429261528.834967,
+            "velocity": 3.08333,
+            "yaw_rate": -0.034202
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-29-501994_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-29-501994_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4,
+            "time_stamp": 1429261529.501994,
+            "velocity": 3.88889,
+            "yaw_rate": -0.147802
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-30-172328_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-30-172328_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4,
+            "time_stamp": 1429261530.172328,
+            "velocity": 4.61111,
+            "yaw_rate": -0.165252
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-30-836342_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-30-836342_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4,
+            "time_stamp": 1429261530.836342,
+            "velocity": 5.19444,
+            "yaw_rate": -0.125465
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-31-502617_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-31-502617_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4001,
+            "time_stamp": 1429261531.502617,
+            "velocity": 5.58333,
+            "yaw_rate": -0.027222
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-32-170390_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-32-170390_k0.tiff",
+            "latitude": 52.5179,
+            "longitude": 13.4001,
+            "time_stamp": 1429261532.17039,
+            "velocity": 5.83333,
+            "yaw_rate": 0.026524
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-32-836043_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-32-836043_k0.tiff",
+            "latitude": 52.518,
+            "longitude": 13.4001,
+            "time_stamp": 1429261532.836043,
+            "velocity": 5.88889,
+            "yaw_rate": 0.0349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-33-501678_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-33-501678_k0.tiff",
+            "latitude": 52.518,
+            "longitude": 13.4002,
+            "time_stamp": 1429261533.501678,
+            "velocity": 5.77778,
+            "yaw_rate": 0.066659
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-34-169746_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-34-169746_k0.tiff",
+            "latitude": 52.518,
+            "longitude": 13.4002,
+            "time_stamp": 1429261534.169746,
+            "velocity": 5.69444,
+            "yaw_rate": 0.039786
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-34-835495_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-34-835495_k0.tiff",
+            "latitude": 52.518,
+            "longitude": 13.4003,
+            "time_stamp": 1429261534.835495,
+            "velocity": 5.83333,
+            "yaw_rate": 0.0287925
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-35-506248_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-35-506248_k0.tiff",
+            "latitude": 52.518,
+            "longitude": 13.4003,
+            "time_stamp": 1429261535.506248,
+            "velocity": 6.25,
+            "yaw_rate": 0.004537
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-36-172151_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-36-172151_k0.tiff",
+            "latitude": 52.518,
+            "longitude": 13.4003,
+            "time_stamp": 1429261536.172151,
+            "velocity": 6.66667,
+            "yaw_rate": -0.0022685
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-36-837989_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-05-15/DE_BBBR667_2015-04-17_11-05-36-837989_k0.tiff",
+            "latitude": 52.5181,
+            "longitude": 13.4004,
+            "time_stamp": 1429261536.837989,
+            "velocity": 6.97222,
+            "yaw_rate": 0.0012215
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-08-904262_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-08-904262_k0.tiff",
+            "latitude": 52.5215,
+            "longitude": 13.4078,
+            "time_stamp": 1429261628.904262,
+            "velocity": 10.6389,
+            "yaw_rate": 0.002443
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-09-570616_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-09-570616_k0.tiff",
+            "latitude": 52.5216,
+            "longitude": 13.408,
+            "time_stamp": 1429261629.570616,
+            "velocity": 10.4444,
+            "yaw_rate": 0.0085505
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-10-235409_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-10-235409_k0.tiff",
+            "latitude": 52.5216,
+            "longitude": 13.408,
+            "time_stamp": 1429261630.235409,
+            "velocity": 10.0,
+            "yaw_rate": 0.0085505
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-10-902340_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-10-902340_k0.tiff",
+            "latitude": 52.5217,
+            "longitude": 13.4081,
+            "time_stamp": 1429261630.90234,
+            "velocity": 9.30556,
+            "yaw_rate": -0.002792
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-11-570468_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-11-570468_k0.tiff",
+            "latitude": 52.5217,
+            "longitude": 13.4082,
+            "time_stamp": 1429261631.570468,
+            "velocity": 8.52778,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-12-235856_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-12-235856_k0.tiff",
+            "latitude": 52.5217,
+            "longitude": 13.4082,
+            "time_stamp": 1429261632.235856,
+            "velocity": 7.69444,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-12-902512_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-12-902512_k0.tiff",
+            "latitude": 52.5218,
+            "longitude": 13.4083,
+            "time_stamp": 1429261632.902512,
+            "velocity": 6.88889,
+            "yaw_rate": -0.004886
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-13-571279_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-13-571279_k0.tiff",
+            "latitude": 52.5218,
+            "longitude": 13.4084,
+            "time_stamp": 1429261633.571279,
+            "velocity": 6.05556,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-14-236035_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-14-236035_k0.tiff",
+            "latitude": 52.5218,
+            "longitude": 13.4084,
+            "time_stamp": 1429261634.236035,
+            "velocity": 5.41667,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-14-902423_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-14-902423_k0.tiff",
+            "latitude": 52.5219,
+            "longitude": 13.4085,
+            "time_stamp": 1429261634.902423,
+            "velocity": 4.88889,
+            "yaw_rate": -0.000698
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-15-571373_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-15-571373_k0.tiff",
+            "latitude": 52.5219,
+            "longitude": 13.4085,
+            "time_stamp": 1429261635.571373,
+            "velocity": 4.33333,
+            "yaw_rate": -0.0022685
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-16-235255_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-16-235255_k0.tiff",
+            "latitude": 52.5219,
+            "longitude": 13.4085,
+            "time_stamp": 1429261636.235255,
+            "velocity": 3.52778,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-16-901870_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-16-901870_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4086,
+            "time_stamp": 1429261636.90187,
+            "velocity": 2.77778,
+            "yaw_rate": 0.001047
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-17-573098_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-17-573098_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4086,
+            "time_stamp": 1429261637.573098,
+            "velocity": 2.05556,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-18-236474_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-18-236474_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4086,
+            "time_stamp": 1429261638.236474,
+            "velocity": 1.38889,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-18-905507_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-18-905507_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261638.905507,
+            "velocity": 0.888889,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-19-571382_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-19-571382_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261639.571382,
+            "velocity": 0.638889,
+            "yaw_rate": 0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-20-234629_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-20-234629_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261640.234629,
+            "velocity": 0.416667,
+            "yaw_rate": 0.0022685
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-20-901644_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-20-901644_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261640.901644,
+            "velocity": 0.111111,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-27-037789_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-27-037789_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261647.037789,
+            "velocity": 0.0,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-27-706114_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-27-706114_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261647.706114,
+            "velocity": 0.0,
+            "yaw_rate": 0.001396
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-28-371570_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-28-371570_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261648.37157,
+            "velocity": 0.0,
+            "yaw_rate": 0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-29-036614_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-29-036614_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261649.036614,
+            "velocity": 0.0,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-29-702132_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-29-702132_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261649.702132,
+            "velocity": 0.0,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-30-369831_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-30-369831_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261650.369831,
+            "velocity": 0.0,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-31-037847_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-31-037847_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261651.037847,
+            "velocity": 0.0,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-31-703814_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-31-703814_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261651.703814,
+            "velocity": 0.0277778,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-32-370305_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-32-370305_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261652.370305,
+            "velocity": 0.222222,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-33-035235_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-33-035235_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261653.035235,
+            "velocity": 1.13889,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-33-701626_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-33-701626_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261653.701626,
+            "velocity": 2.27778,
+            "yaw_rate": -0.0022685
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-34-368976_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-34-368976_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261654.368976,
+            "velocity": 3.36111,
+            "yaw_rate": -0.0019195
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-35-035752_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-35-035752_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261655.035752,
+            "velocity": 4.47222,
+            "yaw_rate": -0.000349
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-35-702276_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-35-702276_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261655.702276,
+            "velocity": 5.44444,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-36-372888_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-36-372888_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4087,
+            "time_stamp": 1429261656.372888,
+            "velocity": 6.30556,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-37-036979_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-37-036979_k0.tiff",
+            "latitude": 52.522,
+            "longitude": 13.4088,
+            "time_stamp": 1429261657.036979,
+            "velocity": 6.97222,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-37-705140_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-37-705140_k0.tiff",
+            "latitude": 52.5221,
+            "longitude": 13.4088,
+            "time_stamp": 1429261657.70514,
+            "velocity": 7.44444,
+            "yaw_rate": -0.0127385
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-38-370284_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-38-370284_k0.tiff",
+            "latitude": 52.5221,
+            "longitude": 13.4088,
+            "time_stamp": 1429261658.370284,
+            "velocity": 7.91667,
+            "yaw_rate": 0.007678
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-39-035984_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-39-035984_k0.tiff",
+            "latitude": 52.5221,
+            "longitude": 13.4089,
+            "time_stamp": 1429261659.035984,
+            "velocity": 8.41667,
+            "yaw_rate": 0.006282
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-39-701476_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-39-701476_k0.tiff",
+            "latitude": 52.5221,
+            "longitude": 13.409,
+            "time_stamp": 1429261659.701476,
+            "velocity": 8.72222,
+            "yaw_rate": 0.0008725
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-40-369253_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-40-369253_k0.tiff",
+            "latitude": 52.5221,
+            "longitude": 13.409,
+            "time_stamp": 1429261660.369253,
+            "velocity": 9.13889,
+            "yaw_rate": 0.0127385
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-41-035814_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-41-035814_k0.tiff",
+            "latitude": 52.5222,
+            "longitude": 13.4091,
+            "time_stamp": 1429261661.035814,
+            "velocity": 9.69444,
+            "yaw_rate": 0.009423
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-41-703138_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-41-703138_k0.tiff",
+            "latitude": 52.5222,
+            "longitude": 13.4092,
+            "time_stamp": 1429261661.703138,
+            "velocity": 9.91667,
+            "yaw_rate": 0.0064565
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-42-368944_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-42-368944_k0.tiff",
+            "latitude": 52.5222,
+            "longitude": 13.4092,
+            "time_stamp": 1429261662.368944,
+            "velocity": 10.25,
+            "yaw_rate": 0.0085505
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-43-038515_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-43-038515_k0.tiff",
+            "latitude": 52.5223,
+            "longitude": 13.4093,
+            "time_stamp": 1429261663.038515,
+            "velocity": 10.5278,
+            "yaw_rate": 0.00698
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-43-702682_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-43-702682_k0.tiff",
+            "latitude": 52.5223,
+            "longitude": 13.4094,
+            "time_stamp": 1429261663.702682,
+            "velocity": 10.75,
+            "yaw_rate": 0.0064565
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-44-368892_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-44-368892_k0.tiff",
+            "latitude": 52.5223,
+            "longitude": 13.4094,
+            "time_stamp": 1429261664.368892,
+            "velocity": 10.9444,
+            "yaw_rate": -0.008376
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-45-034812_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-07-02/DE_BBBR667_2015-04-17_11-07-45-034812_k0.tiff",
+            "latitude": 52.5224,
+            "longitude": 13.4095,
+            "time_stamp": 1429261665.034812,
+            "velocity": 11.1111,
+            "yaw_rate": -0.0050605
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-52-636269_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-52-636269_k0.tiff",
+            "latitude": 52.5254,
+            "longitude": 13.4189,
+            "time_stamp": 1429261912.636269,
+            "velocity": 0.194444,
+            "yaw_rate": -0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-53-301873_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-53-301873_k0.tiff",
+            "latitude": 52.5254,
+            "longitude": 13.4189,
+            "time_stamp": 1429261913.301873,
+            "velocity": 1.19444,
+            "yaw_rate": -0.0043625
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-53-969577_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-53-969577_k0.tiff",
+            "latitude": 52.5254,
+            "longitude": 13.4189,
+            "time_stamp": 1429261913.969577,
+            "velocity": 2.58333,
+            "yaw_rate": -0.004886
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-54-636957_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-54-636957_k0.tiff",
+            "latitude": 52.5254,
+            "longitude": 13.4189,
+            "time_stamp": 1429261914.636957,
+            "velocity": 3.63889,
+            "yaw_rate": -0.004886
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-55-305199_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-55-305199_k0.tiff",
+            "latitude": 52.5254,
+            "longitude": 13.4189,
+            "time_stamp": 1429261915.305199,
+            "velocity": 3.91667,
+            "yaw_rate": 0.0001745
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-55-971378_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-55-971378_k0.tiff",
+            "latitude": 52.5254,
+            "longitude": 13.419,
+            "time_stamp": 1429261915.971378,
+            "velocity": 3.58333,
+            "yaw_rate": 0.0019195
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-56-643591_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-56-643591_k0.tiff",
+            "latitude": 52.5254,
+            "longitude": 13.419,
+            "time_stamp": 1429261916.643591,
+            "velocity": 2.83333,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-57-305423_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-57-305423_k0.tiff",
+            "latitude": 52.5254,
+            "longitude": 13.419,
+            "time_stamp": 1429261917.305423,
+            "velocity": 2.0,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-57-970728_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-57-970728_k0.tiff",
+            "latitude": 52.5253,
+            "longitude": 13.4191,
+            "time_stamp": 1429261917.970728,
+            "velocity": 1.25,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-58-638656_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-58-638656_k0.tiff",
+            "latitude": 52.5253,
+            "longitude": 13.4191,
+            "time_stamp": 1429261918.638656,
+            "velocity": 1.08333,
+            "yaw_rate": 0.0036645
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-59-303217_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-59-303217_k0.tiff",
+            "latitude": 52.5253,
+            "longitude": 13.4191,
+            "time_stamp": 1429261919.303217,
+            "velocity": 1.13889,
+            "yaw_rate": 0.0012215
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-59-970993_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-11-59-970993_k0.tiff",
+            "latitude": 52.5253,
+            "longitude": 13.4191,
+            "time_stamp": 1429261919.970993,
+            "velocity": 1.30556,
+            "yaw_rate": 0.0040135
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-00-638605_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-00-638605_k0.tiff",
+            "latitude": 52.5253,
+            "longitude": 13.4191,
+            "time_stamp": 1429261920.638605,
+            "velocity": 1.63889,
+            "yaw_rate": 0.0082015
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-01-305814_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-01-305814_k0.tiff",
+            "latitude": 52.5253,
+            "longitude": 13.4191,
+            "time_stamp": 1429261921.305814,
+            "velocity": 2.11111,
+            "yaw_rate": 0.00698
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-01-971421_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-01-971421_k0.tiff",
+            "latitude": 52.5253,
+            "longitude": 13.4191,
+            "time_stamp": 1429261921.971421,
+            "velocity": 2.58333,
+            "yaw_rate": 0.0127385
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-02-637607_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-02-637607_k0.tiff",
+            "latitude": 52.5253,
+            "longitude": 13.4192,
+            "time_stamp": 1429261922.637607,
+            "velocity": 3.11111,
+            "yaw_rate": 0.011517
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-03-304212_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-03-304212_k0.tiff",
+            "latitude": 52.5253,
+            "longitude": 13.4192,
+            "time_stamp": 1429261923.304212,
+            "velocity": 3.58333,
+            "yaw_rate": 0.0085505
+        },
+        {
+            "disparity_image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-03-969439_nativeV2.tiff",
+            "image_path": "./Berlin/Berlin1/2015-04-17_11-11-46/DE_BBBR667_2015-04-17_11-12-03-969439_k0.tiff",
+            "latitude": 52.5253,
+            "longitude": 13.4192,
+            "time_stamp": 1429261923.969439,
+            "velocity": 3.69444,
+            "yaw_rate": 0.0036645
+        }
+    ]
+}

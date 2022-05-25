@@ -1,0 +1,13 @@
+csp/weights/
+csp/yolo/
+
+detectron2/weights/
+detectron2/__pycache__
+
+yolor/weights/
+yolor/scripts/
+
+osrm/germany*
+*.code-workspace
+
+all_weights*

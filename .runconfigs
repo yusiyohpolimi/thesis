@@ -1,0 +1,7 @@
+# NVIDIA-Docker run options
+docker_args: -v /multiverse/datasets/shared/DTLD:/multiverse/datasets/shared/DTLD
+
+# The name of containers (remember you have to prefix it with '{user}_')
+container_name: {user}_Final_GPU{args.gpu}_{date}
+
+
