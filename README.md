@@ -16,7 +16,7 @@ docker build --rm -t <tag> -f Venv .
 
 Clone the repository and download the [model weights](https://polimi365-my.sharepoint.com/personal/10622973_polimi_it/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F10622973_polimi_it%2FDocuments%2FTesi%2Ftesi%20Yusuf%2Fmodel_weights&ga=1) into the base folder. Then run bash script for the weights:
 ```
-git clone https://github.com/AIRLab-POLIMI/traffic_lights_detection.git
+git clone https://github.com/yusiyohpolimi/thesis.git
 
 cd traffic_lights_detection/
 # Download the weights here and run following script
