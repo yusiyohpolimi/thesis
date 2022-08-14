@@ -1,6 +1,6 @@
 # Traffic Light Detection and Mapping for HD-map Creation
 
-<img src="https://github.com/AIRLab-POLIMI/traffic_lights_detection/blob/main/correct_direction.jpg" height="480">
+<img src="https://github.com/yusiyohpolimi/thesis/edit/main/diagram_new.jpg" height="480">
 
 The thesis is developed by Yusuf Can Simsek. Note that this repository is designed to work in Artificial Intelligence and Robotics Laboratory at Politecnico di Milano (AIRLab) servers.
 
