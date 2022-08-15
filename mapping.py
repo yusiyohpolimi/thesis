@@ -160,10 +160,7 @@ def positions_3D(args):
         # if len(TL_per_img):   
         TL_coords.append(np.array(TL_per_img))
         class_list.append(classes_img)
-        # else:
-        #     print('ANANIN AMINA GIRDIM')
-        #     TL_coords.append(np.array([[0, 0]]))
-        #     class_list.append([['', '']])
+
     TL_coords = list(filter(lambda x: x != np.array([]), TL_coords))    
     class_list = list(filter(lambda x: x != np.array([]), class_list))    
 
@@ -576,13 +573,6 @@ def get_meas_kf(snapped, vel_splitted):
                                   lat0[idx], lon0[idx], h0[idx])
         xe.append(e), yn.append(n), zu.append(u)  
 
-    # measurements = [
-    #     [[utm[0], vel_xy[0], utm[1], vel_xy[1], yaw_rate] 
-    #      for utm, vel_xy, yaw_rate   
-    #      in zip(np.transpose(utm_seq[:2]), vel_xy_seq, yaw_rate_seq)] 
-    #      for utm_seq, vel_xy_seq, yaw_rate_seq 
-    #      in zip(snapped_utm, vel_xy_splitted, yaw_rates_splitted)
-    #     ]
     vel_xy_splitted = vel_splitted[0]
     yaw_rates_splitted = vel_splitted[1]    
     measurements_enu = [
